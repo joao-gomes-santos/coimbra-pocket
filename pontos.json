@@ -1,0 +1,357 @@
+[
+  {
+    "id": "wc-mercado",
+    "category": "wc",
+    "access": "free",
+    "lat": 40.2121,
+    "lng": -8.4278,
+    "hours": "07:00 – 19:00 (Mon–Sat)",
+    "name": {
+      "en": "Mercado Municipal D. Pedro V — Public Toilets",
+      "pt": "Mercado Municipal D. Pedro V — WC Público"
+    },
+    "note": {
+      "en": "Enter through the main lower market hall (Floor 0) near the fresh produce stalls. Clean and free during market hours.",
+      "pt": "Entrada pelo piso inferior do mercado (Piso 0), junto às bancas de frescos. Limpo e gratuito no horário do mercado."
+    }
+  },
+  {
+    "id": "wc-manga",
+    "category": "wc",
+    "access": "free",
+    "lat": 40.2111,
+    "lng": -8.4285,
+    "hours": "09:00 – 19:00",
+    "name": {
+      "en": "Jardim da Manga Public Restrooms",
+      "pt": "Casas de Banho do Jardim da Manga"
+    },
+    "note": {
+      "en": "Located on the side corner of the historic cloister garden, right behind Santa Cruz Church.",
+      "pt": "Localizadas num dos cantos laterais do claustro histórico, logo atrás da Igreja de Santa Cruz."
+    }
+  },
+  {
+    "id": "wc-parque-verde",
+    "category": "wc",
+    "access": "free",
+    "lat": 40.2036,
+    "lng": -8.4272,
+    "hours": "08:00 – 22:00",
+    "name": {
+      "en": "Parque Verde do Mondego (Pavilion WC)",
+      "pt": "Parque Verde do Mondego (WC dos Pavilhões)"
+    },
+    "note": {
+      "en": "Public restrooms integrated between the riverside cafés/restaurants near the Pedro e Inês pedestrian bridge.",
+      "pt": "Instalações sanitárias públicas integradas entre os pavilhões da margem direita, perto da Ponte Pedro e Inês."
+    }
+  },
+  {
+    "id": "wc-pequenitos-ext",
+    "category": "wc",
+    "access": "free",
+    "lat": 40.2016,
+    "lng": -8.4342,
+    "hours": "10:00 – 19:00",
+    "name": {
+      "en": "Santa Clara Square / Portugal dos Pequenitos Exterior",
+      "pt": "Largo do Rossio de Santa Clara (Exterior Portugal dos Pequenitos)"
+    },
+    "note": {
+      "en": "Public municipal WC located outside the main ticketed park entrance in Rossio de Santa Clara.",
+      "pt": "WC público municipal situado no exterior da entrada principal do parque, no Rossio de Santa Clara."
+    }
+  },
+  {
+    "id": "wc-alta-biblioteca",
+    "category": "wc",
+    "access": "free",
+    "lat": 40.2073,
+    "lng": -8.4249,
+    "hours": "09:00 – 20:00 (Mon–Fri)",
+    "name": {
+      "en": "University Humanities Faculty / Cantinas Azuis (Alta)",
+      "pt": "Faculdade de Letras / Cantinas Azuis (Alta Universitária)"
+    },
+    "note": {
+      "en": "Open academic buildings in the Upper Town (Alta). Enter calmly through the main ground-floor lobby; restrooms are clearly signposted.",
+      "pt": "Edifícios académicos abertos na Alta. Entre pelo átrio principal no rés-do-chão; os WC estão bem sinalizados."
+    }
+  },
+  {
+    "id": "wc-ferreira-borges",
+    "category": "wc",
+    "access": "customers",
+    "lat": 40.2089,
+    "lng": -8.4292,
+    "hours": "08:00 – 20:00",
+    "name": {
+      "en": "Pastelaria Briosa / Rua Ferreira Borges Cafés",
+      "pt": "Pastelaria Briosa / Cafés da Rua Ferreira Borges"
+    },
+    "note": {
+      "en": "Central pedestrian street. Order an espresso (€0.90–€1.10) or local pastry at the counter; ask staff for the key or code if locked.",
+      "pt": "Rua pedonal central. Peça um café ao balcão; solicite a chave ou código ao funcionário caso a porta esteja fechada."
+    }
+  },
+  {
+    "id": "wc-praca-8-maio",
+    "category": "wc",
+    "access": "customers",
+    "lat": 40.2107,
+    "lng": -8.4293,
+    "hours": "08:00 – 22:00",
+    "name": {
+      "en": "Café Santa Cruz (Praça 8 de Maio)",
+      "pt": "Café Santa Cruz (Praça 8 de Maio)"
+    },
+    "note": {
+      "en": "Iconic café next to Santa Cruz Church. Restrooms are at the back/upper level for café customers.",
+      "pt": "Café histórico ao lado da Igreja de Santa Cruz. Instalações sanitárias no fundo/piso superior para clientes."
+    }
+  },
+  {
+    "id": "wc-se-velha",
+    "category": "wc",
+    "access": "customers",
+    "lat": 40.2088,
+    "lng": -8.4267,
+    "hours": "10:00 – 23:00",
+    "name": {
+      "en": "Largo da Sé Velha — Café & Terrace Area",
+      "pt": "Largo da Sé Velha — Zona de Cafés e Esplanadas"
+    },
+    "note": {
+      "en": "Midway up the hill next to the Old Cathedral. Grab a quick drink at the cafés on the square to use indoor facilities.",
+      "pt": "A meio da subida junto à Sé Velha. Consuma uma bebida rápida nos cafés do largo para aceder aos WC interiores."
+    }
+  },
+  {
+    "id": "water-parque-verde",
+    "category": "water",
+    "access": "free",
+    "lat": 40.2044,
+    "lng": -8.4281,
+    "hours": "24/7",
+    "name": {
+      "en": "Parque Verde Drinking Fountain",
+      "pt": "Bebedouro do Parque Verde"
+    },
+    "note": {
+      "en": "Municipal drinking water fountain along the riverside promenade path. Safe tap water to refill bottles.",
+      "pt": "Bebedouro municipal junto ao passeio ribeirinho. Água potável da rede pública para encher garrafas."
+    }
+  },
+  {
+    "id": "water-botanico",
+    "category": "water",
+    "access": "free",
+    "lat": 40.2063,
+    "lng": -8.4222,
+    "hours": "09:00 – 20:00",
+    "name": {
+      "en": "Botanical Garden — Central Fountain",
+      "pt": "Jardim Botânico — Bebedouro Central"
+    },
+    "note": {
+      "en": "Located near the main central terrace and greenhouses inside the free-entry Botanical Garden.",
+      "pt": "Situado perto do terraço central e das estufas no interior do Jardim Botânico (entrada gratuita)."
+    }
+  },
+  {
+    "id": "water-alta-porta-ferrea",
+    "category": "water",
+    "access": "free",
+    "lat": 40.2076,
+    "lng": -8.4255,
+    "hours": "24/7",
+    "name": {
+      "en": "Largo da Porta Férrea / University Plaza Water Point",
+      "pt": "Largo da Porta Férrea / Ponto de Água da Alta"
+    },
+    "note": {
+      "en": "Public water fountain right outside the historic University gate, before climbing the steps to Paço das Escolas.",
+      "pt": "Bebedouro público mesmo à saída da Porta Férrea da Universidade, junto ao Largo D. Dinis."
+    }
+  },
+  {
+    "id": "water-praca-republica",
+    "category": "water",
+    "access": "free",
+    "lat": 40.2098,
+    "lng": -8.4196,
+    "hours": "24/7",
+    "name": {
+      "en": "Praça da República Drinking Fountain",
+      "pt": "Bebedouro da Praça da República"
+    },
+    "note": {
+      "en": "On the edge of the square near the entrance to Jardim da Sereia.",
+      "pt": "No limite da praça, junto à entrada do Jardim da Sereia."
+    }
+  },
+  {
+    "id": "rest-botanico",
+    "category": "rest",
+    "access": "free",
+    "lat": 40.2059,
+    "lng": -8.4214,
+    "hours": "09:00 – 20:00",
+    "name": {
+      "en": "Jardim Botânico (Bamboo Grove & Shade Benches)",
+      "pt": "Jardim Botânico (Mata de Bambus e Bancos à Sombra)"
+    },
+    "note": {
+      "en": "Completely free entry. Deep shade under centenary trees, cool microclimate on hot afternoons, and quiet benches.",
+      "pt": "Entrada totalmente gratuita. Sombra densa sob árvores centenárias, microclima fresco e bancos tranquilos."
+    }
+  },
+  {
+    "id": "rest-sereia",
+    "category": "rest",
+    "access": "free",
+    "lat": 40.2095,
+    "lng": -8.4182,
+    "hours": "08:00 – 21:00",
+    "name": {
+      "en": "Jardim da Sereia (Parque de Santa Cruz)",
+      "pt": "Jardim da Sereia (Parque de Santa Cruz)"
+    },
+    "note": {
+      "en": "Free historic woodland park behind Praça da República with stone benches, fountains, and plenty of tree cover.",
+      "pt": "Parque arborizado gratuito atrás da Praça da República, com bancos de pedra, fontes e muita sombra."
+    }
+  },
+  {
+    "id": "rest-penedo",
+    "category": "rest",
+    "access": "free",
+    "lat": 40.2066,
+    "lng": -8.4148,
+    "hours": "24/7",
+    "name": {
+      "en": "Penedo da Saudade Viewpoint & Park",
+      "pt": "Miradouro do Penedo da Saudade"
+    },
+    "note": {
+      "en": "Panoramic terrace overlooking the eastern hills and Mondego valley, lined with poetic plaques and shaded benches.",
+      "pt": "Terraço panorâmico sobre o vale do Mondego, com placas poéticas estudantis e bancos sombreados."
+    }
+  },
+  {
+    "id": "rest-parque-verde-wifi",
+    "category": "rest",
+    "access": "free",
+    "lat": 40.2049,
+    "lng": -8.4288,
+    "hours": "24/7",
+    "name": {
+      "en": "Parque Verde Lawns & Free Municipal Wi-Fi Zone",
+      "pt": "Relvados do Parque Verde e Zona Wi-Fi Gratuito"
+    },
+    "note": {
+      "en": "Grassy riverside lawns with wooden benches and 'Coimbra WiFi' municipal hotspot coverage.",
+      "pt": "Relvados junto ao rio com bancos de madeira e cobertura da rede municipal gratuita 'Coimbra WiFi'."
+    }
+  },
+  {
+    "id": "lockers-coimbra-b",
+    "category": "lockers",
+    "access": "paid",
+    "lat": 40.2236,
+    "lng": -8.4398,
+    "hours": "06:00 – 23:00",
+    "affiliateUrl": "https://bounce.com/city/coimbra",
+    "name": {
+      "en": "Coimbra-B Main Train Station — Luggage Storage",
+      "pt": "Estação Ferroviária de Coimbra-B — Guarda-Bagagens"
+    },
+    "note": {
+      "en": "Official station lockers inside the main concourse plus partner shop drop-offs right across the station street.",
+      "pt": "Cacifos oficiais no interior da estação e pontos parceiros mesmo em frente à saída principal."
+    }
+  },
+  {
+    "id": "lockers-arnado",
+    "category": "lockers",
+    "access": "paid",
+    "lat": 40.2148,
+    "lng": -8.4334,
+    "hours": "07:00 – 22:00",
+    "affiliateUrl": "https://radicalstorage.com/luggage-storage/coimbra",
+    "name": {
+      "en": "Coimbra Bus Terminal (Arnado) Lockers",
+      "pt": "Estação Rodoviária (Arnado) — Bagagem"
+    },
+    "note": {
+      "en": "Convenient for Rede Expressos / FlixBus travelers arriving at Av. Fernão de Magalhães. Book online or use terminal lockers.",
+      "pt": "Ideal para viajantes Rede Expressos / FlixBus na Av. Fernão de Magalhães. Reserve online ou use os cacifos do terminal."
+    }
+  },
+  {
+    "id": "lockers-portagem",
+    "category": "lockers",
+    "access": "paid",
+    "lat": 40.2078,
+    "lng": -8.4299,
+    "hours": "08:00 – 22:00",
+    "affiliateUrl": "https://bounce.com/city/coimbra",
+    "name": {
+      "en": "Largo da Portagem / Baixa 24h Smart Lockers",
+      "pt": "Largo da Portagem / Baixa — Cacifos Automáticos"
+    },
+    "note": {
+      "en": "Central luggage drop-off right by Santa Clara Bridge, saving you from dragging suitcases up Coimbra's cobbled hills.",
+      "pt": "Depósito de bagagem central junto à Ponte de Santa Clara, evitando subir as calçadas íngremes com malas."
+    }
+  },
+  {
+    "id": "uphill-elevador-mercado",
+    "category": "uphill",
+    "access": "paid",
+    "lat": 40.2123,
+    "lng": -8.4272,
+    "hours": "07:30 – 21:00 (Mon–Sat)",
+    "name": {
+      "en": "Elevador do Mercado (Vertical Lift + Funicular)",
+      "pt": "Elevador do Mercado (Ascensor Vertical + Funicular)"
+    },
+    "note": {
+      "en": "Best shortcut to skip the steep climb! Connects Rua Olímpio Nicolau Rui Fernandes (next to Mercado) directly up to Rua Padre António Vieira near the University.",
+      "pt": "O melhor atalho para evitar a subida íngreme! Liga a zona do Mercado diretamente à Rua Padre António Vieira, perto da Universidade."
+    }
+  },
+  {
+    "id": "uphill-bus-34-portagem",
+    "category": "uphill",
+    "access": "paid",
+    "lat": 40.2081,
+    "lng": -8.4296,
+    "hours": "07:00 – 21:00",
+    "name": {
+      "en": "SMTUC Line 34 / Linha Botânico (Portagem Stop)",
+      "pt": "Autocarro SMTUC Linha 34 / Linha Botânico (Paragem Portagem)"
+    },
+    "note": {
+      "en": "Small electric minibus that climbs straight from Largo da Portagem to the University (Paço das Escolas). Buy ticket onboard from driver (~€1.60).",
+      "pt": "Miniautocarro elétrico que sobe diretamente da Portagem até ao Paço das Escolas (Universidade). Bilhete comprado a bordo (~1,60€)."
+    }
+  },
+  {
+    "id": "uphill-metro-mondego-hub",
+    "category": "uphill",
+    "access": "paid",
+    "lat": 40.2116,
+    "lng": -8.4312,
+    "hours": "06:30 – 23:30",
+    "name": {
+      "en": "Metro Mondego / Baixa Central Transit Hub",
+      "pt": "Metro Mondego / Interface Central da Baixa"
+    },
+    "note": {
+      "en": "Main transit corridor connecting Coimbra-B, Baixa, and the upper hospital/university axis without walking up Escadas Monumentais.",
+      "pt": "Corredor principal de mobilidade que liga Coimbra-B, a Baixa e o eixo superior sem ter de subir as Escadas Monumentais a pé."
+    }
+  }
+]
