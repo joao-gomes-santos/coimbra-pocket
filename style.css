@@ -51,6 +51,11 @@
   --paid-pin: #6366f1;
 }
 
+/* Automatic Dark Mode styling for OpenStreetMap tiles */
+[data-theme="dark"] .leaflet-tile-pane {
+  filter: invert(100%) hue-rotate(180deg) brightness(95%) contrast(90%);
+}
+
 * {
   box-sizing: border-box;
   margin: 0;
