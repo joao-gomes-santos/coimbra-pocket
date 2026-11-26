@@ -10,10 +10,10 @@ const CONFIG = {
   walkingSpeedMetersPerMin: 75, // Adjusted for Coimbra's hills (~4.5 km/h)
   enableMonetizationBar: true,  // Toggle false to hide bottom partner bar
   reportEmail: 'coimbrapocket@example.com', // Replace with your email or Google Form URL
-  tiles: {
-    light: 'https://a.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png',
-    dark: 'https://a.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png',
-    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OSM</a> &copy; <a href="https://carto.com/">CARTO</a>'
+    tiles: {
+    light: 'https://openstreetmap.org{z}/{x}/{y}.png',
+    dark: 'https://openstreetmap.org{z}/{x}/{y}.png',
+    attribution: '&copy; <a href="https://openstreetmap.org">OpenStreetMap</a>'
   }
 };
 
